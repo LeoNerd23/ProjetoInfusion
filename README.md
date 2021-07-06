@@ -1,3 +1,3 @@
 # ProjetoInfusion
  
-Projeto final do curso, pondo em prática tudo que foi passado durante o curso.
+- Projeto final do curso, pondo em prática tudo que foi passado durante o curso.
